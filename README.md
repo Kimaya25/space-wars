@@ -1,1 +1,2 @@
-# space-wars
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
